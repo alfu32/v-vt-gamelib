@@ -11,6 +11,7 @@ fn main() {
 			- you
 			- everybody
 		!
+		${kb}
 	'.trim_indent())
 	libgamev.C.keyboard_deinit(kb)
 }
